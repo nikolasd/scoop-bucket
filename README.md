@@ -1,0 +1,4 @@
+bucket
+======
+
+My Scoop bucket
